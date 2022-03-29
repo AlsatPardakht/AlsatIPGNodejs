@@ -1,0 +1,29 @@
+{
+  "name": "@alsatpardakht/alsatipg",
+  "version": "1.0.1",
+  "description": "open-source ‌‌Javascript library to connect Alsat pardakht peyment API",
+  "main": "AlsatIPG.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlsatPardakht/AlsatIPGJavascript.git"
+  },
+  "keywords": [
+    "AlsatIPG",
+    "node",
+    "nodejs",
+    "javascript",
+    "payment",
+    "alsat",
+    "alsatipg",
+    "alsatpardakht"
+  ],
+  "author": "Alsatpardakht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlsatPardakht/AlsatIPGJavascript/issues"
+  },
+  "homepage": "https://github.com/AlsatPardakht/AlsatIPGJavascript#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@alsatpardakht/alsatipg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "open-source ‌‌Javascript library to connect Alsat pardakht peyment API",
   "main": "AlsatIPG.js",
   "scripts": {
